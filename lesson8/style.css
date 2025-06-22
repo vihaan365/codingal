@@ -1,0 +1,9 @@
+.class1{
+    background-image: url(https://www.daysoftheyear.com/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Ch=1392%2Cq=85%2Cw=2048/wp-content/uploads/daylight-appreciation-day1-scaled.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: :fixed;
+}
+.class2{
+    background:-moz-linear-gradient(to right,blue,red)
+}
