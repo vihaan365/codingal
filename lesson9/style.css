@@ -1,0 +1,23 @@
+.class1{
+    font-size: 42px;
+    border:6px solid green;
+}
+.class2{
+    text-decoration: underline overline;
+}
+.class3{
+    text-transform: uppercase;
+}
+.class4{
+    text-shadow:5px 4px 3px;
+}
+.class5{
+    text-indent: 90px;
+}
+.cbs{
+    width:300px;
+    height:500px;
+    text-align:center;
+    background-color: blue;
+    transform:skew(32deg 23deg )
+}
