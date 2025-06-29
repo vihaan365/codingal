@@ -1,0 +1,23 @@
+.class1{
+    font-size: 50px;
+    border:23px solid red yellow
+}
+.class2{
+    text-decoration: overline underline;
+}
+.class3{
+    text-transform: uppercase;
+}
+.class4{
+    text-shadow: 6px 8px 3px red;
+}
+.class5{
+    text-indent:60px ;
+}
+.slytherin{
+    width:300px;
+    height:200px;
+    text-align: center;
+    background-color: aquamarine;
+    transform: skew( 230deg);
+}
