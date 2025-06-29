@@ -1,0 +1,23 @@
+input[type=text]{
+border: 6px solid red;
+}
+.class1 > p{
+    background-color: bisque;
+}
+h3+h4{
+    background-color: aqua;
+}
+li:nth-child(3){
+    background-color: beige;
+}
+div:not(.class5){
+    background-color: antiquewhite;
+    border:4px solid red;
+}
+.class5::before{
+    content:"😭"
+}
+.class6::first-letter{
+    font-size: 32px;
+    color:blue
+}

@@ -19,5 +19,5 @@
     height:200px;
     text-align: center;
     background-color: aquamarine;
-    transform: skew( 230deg);
+    transform: skew(12deg 30deg);
 }
