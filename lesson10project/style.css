@@ -1,0 +1,24 @@
+.class3>p {
+    background-color: blanchedalmond;
+}
+
+h3+h4 {
+    background-color: chartreuse;
+}
+
+li:nth-child(3) {
+    background-color: brown;
+}
+
+div:not(.class5) {
+    box-shadow: 14px solid blue;
+}
+
+.class4::before {
+    content: "⚽";
+}
+
+.class2::first-letter {
+    font-size: 100px;
+    color: aqua;
+}
