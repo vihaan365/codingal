@@ -1,0 +1,12 @@
+.class1{
+    padding: 180px;
+    border:90px solid green;
+    background-color: lightslategrey;
+}
+.class2{
+    background-color: forestgreen;
+    border: 100px solid royalblue;
+    margin-left: 50px;
+    margin-right: 98px;
+    padding:90px 10px 89px 1px;
+}
