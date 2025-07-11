@@ -1,0 +1,28 @@
+.class1{
+position:static;
+left:50px;
+top:190px;
+
+}
+.class2{
+    position:fixed;
+    left:90px
+}
+.class3{
+    position:relative;
+    left:40px;
+    top:12px;
+}
+.class4{
+    position:absolute;
+    left:20px;
+}
+.class5{
+    position:sticky;
+    right:30px;
+    top:300px;
+}
+.class7{
+position:relative;
+left:90px;
+}
