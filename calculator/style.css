@@ -1,0 +1,30 @@
+.calculator{
+    margin: 120px auto ;
+    border-radius:4px ;
+    background-color:white ;
+    padding:10px ;
+    width:340px ;
+}
+
+.operator , .number{
+    width : 70px;
+    border-radius: 2px;
+}
+
+.keyboard{
+    display: flex;
+    /*enables flexbox layout*/
+    justify-content: center;
+    /*centers buttons horizontally*/
+    flex-wrap: wrap;
+    /*allows buttons to wrap to next line*/
+    gap:10px ;
+    /*creates space between buttons*/
+}
+
+.display{
+    height: 60px;
+    font-size: 24px;
+    text-align: right;
+    padding:10px ;
+}
