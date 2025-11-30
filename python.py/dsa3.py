@@ -13,3 +13,19 @@ print(s.symmetric_difference(s2))
 print(s.intersection(s2))
 
 print(s.union(s2))
+
+# convert set to list and tuple
+s = list(s)
+print(s)
+
+# convert set to tuple
+s = tuple(s)
+print(s)
+
+# convert list to set
+s = set(s)
+print(s)
+
+# convert tuple to set
+s = set(s)
+print(s)
